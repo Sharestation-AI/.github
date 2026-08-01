@@ -1,13 +1,46 @@
-# ThinkPrint
+# 🖨️ **PrintStation**
 
-We build the platform event photographers actually run on event day.
-
-**PrintStation** turns capture into delivery — face match when you need it, share-only when you don’t, WhatsApp / SMS / email when the guest walks away with their photos.
-
-One product. Plans unlock the surface. No fork theater.
+The event-day platform that gets photos from the camera to the guest's phone before they leave the party.
 
 ---
 
-**Site:** [https://printstation.ai](https://printstation.ai)
+### 🎯 What we ship
 
-We ship the boring parts that break events: uploaders, quotas, multi-provider messaging, LGPD retention, and stations that still work when the room is loud and the Wi‑Fi is not.
+| | |
+|---|---|
+| 📸 | Capture → upload → match → gallery |
+| 🧠 | Face recognition when the plan needs it |
+| 📱 | WhatsApp / SMS / email delivery that actually lands |
+| 🖥️ | Touchscreen stations & share-only mode (no AI drama) |
+| 🧾 | Multi-tenant SaaS, credits, quotas — the unsexy stuff that keeps events alive |
+
+One product. Features unlock by plan. Guests get their memories. Operators keep their sanity.
+
+---
+
+### 🚀 Why teams run us on event night
+
+- ⚡ **Built for live events** — not a slideshow demo that dies at 22:00  
+- 🔁 **Fallback messaging** — if one provider flakes, the next one picks up  
+- 🔐 **LGPD-aware** — biometrics with a retention story, not a shrug  
+- 🧩 **Real ops tooling** — uploader, preflight, stations, billing in one place  
+
+---
+
+### 🌐 Home
+
+**[printstation.ai](https://printstation.ai)**
+
+```text
+Capture  →  Match  →  Gallery  →  Deliver
+   📷         🧠         🖼️         💬
+```
+
+---
+
+### 💬 The point
+
+We care about the moment the guest scans a QR and their face lights up.  
+Everything else — queues, entitlements, providers, printers — exists so that moment never fails.
+
+**Ship sharp. Run loud events. Send the photos home.** ✨
